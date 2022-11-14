@@ -1,6 +1,5 @@
 # Project-4
-![](/images/1.jpg)
-
+<img src=“/images/logo.png”>
 # Goals
 For this project the goal is make a sql database and through python make a localpage with different endpoints to get and post information related with this database
 
